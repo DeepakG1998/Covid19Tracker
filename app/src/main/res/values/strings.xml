@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid19Tracker</string>
+    <string name="chennai">Chennai</string>
+    <string name="_10th_aug">10th Aug 2021</string>
+    <string name="cases">Cases:</string>
+    <string name="_1000">1000</string>
+    <string name="uttar_pradesh">Uttar Pradesh</string>
+    <string name="_11th_aug">11th Aug 2021</string>
+    <string name="_2000">2000</string>
+    <string name="west_bengal">West Bengal</string>
+    <string name="_12th_aug">12th Aug 2021</string>
+    <string name="_3000">3000</string>
+    <string name="covid_cases">Covid Cases</string>
+    <string name="tamil_nadu">Tamil Nadu</string>
+</resources>
